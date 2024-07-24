@@ -1,0 +1,13 @@
+.banner {
+    background-color: black;
+    width: 100%;
+    /*
+    position: absolute;
+    top: 0;
+    right: 0;
+    */
+}
+
+.banner #texto {
+    font-size: 3rem;
+}
